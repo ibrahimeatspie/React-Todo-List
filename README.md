@@ -2,7 +2,9 @@
 
 ![Image of Todo-List](https://raw.githubusercontent.com/ibrahimeatspie/react-todolist/master/todolist.png)
 
-This project was created using React.js for component driven development, and with Bootstrap for styling.
+This project was created using React.js for component driven development, and with Bootstrap for styling. Check it out [here!](https://todolistapp-woad.vercel.app/).
+
+
 
 ## What this project does
 
